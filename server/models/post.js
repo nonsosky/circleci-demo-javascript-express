@@ -12,4 +12,4 @@ const postSchema = new Schema({
 
 export default mongoose.model('Post', postSchema);
 
-// Clean Code
+// Clean Code yea.
